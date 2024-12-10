@@ -140,3 +140,4 @@ jobs:
             bin/*.apk
             bin/*.aab
           retention-days: 3
+          
